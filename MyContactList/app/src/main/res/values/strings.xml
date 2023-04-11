@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My New Contact List</string>
+    <string name="button_to_display_a_list_of_contacts">Button to display a list of contacts</string>
+    <string name="button_to_display_contacts_on_a_map">Button to display contacts on a map</string>
+    <string name="button_to_access_app_settings">Button to access app settings</string>
+    <string name="text_cell_phone">Cell Phone:</string>
+    <string name="text_home_phone">Home Phone:</string>
+    <string name="text_delete">Delete</string>
+    <string name="button_new">NEW</string>
+    <string name="toggle_delete">Delete</string>
+</resources>
